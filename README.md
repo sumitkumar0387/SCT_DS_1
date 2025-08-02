@@ -44,7 +44,7 @@ Bar charts representing:
 ## 🔗 Useful Links
 
 - [Project Repository](https://github.com/sumitkumar0387/SCT_DS_1)
-- [SkillCraft Official Page](https://skillcraft.ai)
+- [SkillCraft Official Page](https://www.linkedin.com/company/skillcraft-technology/)
 
 ---
 
