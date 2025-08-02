@@ -1,51 +1,37 @@
-# Population Visualization – SkillCraft Technology Internship Task 01
+# 📊 SkillCraft Technology – Data Science Internship (August 2025)
 
-This project is part of the **SkillCraft Technology Internship – Task 01**.  
-The goal of the task was to visualize gender-wise population distribution using a bar chart.
-
----
-
-## 📌 Task Objective
-
-To visualize the **top 10 countries** with the highest **male and female population percentages** in 2024.
+This repository contains **Task 01** completed as part of the **SkillCraft Technology Data Science Internship – August 2025**.
 
 ---
 
-## 📊 Tools & Libraries Used
+## ✅ Task 01: Population Visualization (2024)
 
+### 🎯 Objective:
+To visualize the **top 10 countries** with the highest **male**, **female**, and **total population** values in 2024 using Python-based visualizations.
+
+### 🛠️ Tools & Libraries:
 - Python 🐍
 - Pandas
 - Matplotlib
 - Seaborn
 
----
+### 📁 File:(Task01_Population_Visualization.ipynb)
 
-## 📁 Files in this Repository
+### 📷 Visual Output:
+- Bar chart: Top 10 countries with highest **male population %**
+- Bar chart: Top 10 countries with highest **female population %**
+- Bar chart: Top 10 countries by **total population**
 
-- `Task01_Population_Visualization.ipynb` – Jupyter notebook with all code and plots
-
----
-
-## 📷 Sample Output
-
-Bar charts representing:
-- Top 10 countries with highest **male population %**
-- Top 10 countries with highest **female population %**
+### 🔍 Key Insights (Summary):
+- Gulf nations like **Qatar** and **UAE** exhibit significantly higher male populations due to labor migration.
+- Countries such as **Latvia**, **Estonia**, and **Hong Kong** report higher female population shares.
+- **India**, **China**, and the **USA** continue to lead in total population size globally.
 
 ---
 
-## ✅ Key Insights
-
-- Countries like **Qatar**, **UAE**, and **Oman** have a high male population percentage due to migrant labor.
-- Regions such as **Hong Kong SAR** and **Latvia** show higher female population percentages.
+> 🚀 Created by **Sumit Kumar** as part of the SkillCraft Internship  
+> 📅 Task completed in August 2025
 
 ---
 
-## 🔗 Useful Links
-
-- [Project Repository](https://github.com/sumitkumar0387/SCT_DS_1)
-- [SkillCraft Official Page](https://www.linkedin.com/company/skillcraft-technology/)
-
----
-
-> 🚀 Created as part of the **SkillCraft Technology Internship** by **Sumit Kumar**
+<!-- Future tasks can be added below this line -->
