@@ -23,7 +23,6 @@ To visualize the **top 10 countries** with the highest **male and female populat
 ## 📁 Files in this Repository
 
 - `Task01_Population_Visualization.ipynb` – Jupyter notebook with all code and plots
-- `population_data.csv` – Dataset used (if included)
 
 ---
 
