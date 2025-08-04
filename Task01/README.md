@@ -15,7 +15,7 @@ In this task, I analyzed and visualized the global population distribution by ge
 - Observed visual differences and trends in gender distribution across countries.
 
 ## 📂 Files:
-- `Task01_Population_Visualization.ipynb`
-- `population_data.csv` (assumed filename)
+- [`Task01_Population_Visualization.ipynb`](./Task01_Population_Visualization.ipynb)
+- `population_data.csv` 
 
 ✅ Task successfully completed as part of the SkillCraft Technology Internship.
