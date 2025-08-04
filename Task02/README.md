@@ -14,7 +14,7 @@ Perform data cleaning and exploratory data analysis on the Titanic dataset to un
 - Created bar charts and heatmaps to understand correlations.
 
 ## 📂 Files in this folder:
--  [`Task02_Titanic_Eda.ipynb`](./Task02_Titanic_Eda.ipynb)
+-  [`Task02_Titanic_Eda.ipynb`](.Task02_Titanic_EDA.ipynb.ipynb)
 - [`titanic_cleaned.csv`](./titanic_cleaned.csv)
 
 ## 🛠️ Tools Used:
