@@ -15,7 +15,7 @@ Perform data cleaning and exploratory data analysis on the Titanic dataset to un
 
 ## 📂 Files in this folder:
 - - [`Task02_Titanic_EDA.ipynb`](./Task02/Task02_Titanic_EDA.ipynb)
-- [`titanic_cleaned.csv`](./titanic_cleaned.csv)
+- [`titanic_cleaned.csv`](./Task02/Titanic_cleaned.csv)
 
 ## 🛠️ Tools Used:
 Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
