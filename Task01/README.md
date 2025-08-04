@@ -16,7 +16,7 @@ In this task, I analyzed and visualized the global population distribution by ge
 
 ## 📂 Files:
 - [`Task01_Population_Visualization.ipynb`](./Task01_Population_Visualization.ipynb)
-- ['Total_Population.xls'](./Task01_Population.xls)
+- ['Total_Population.xls'](./Task01_population.xls)
 
 
 ✅ Task successfully completed as part of the SkillCraft Technology Internship.
