@@ -21,7 +21,7 @@ To analyze and visualize the global distribution of *male, **female, and **total
 
 ## 📁 Project File
 
-- Task01_Population_Visualization.ipynb – Jupyter notebook containing code, plots, and insights
+- '[Task01_Population_Visualization.ipynb'](Task01_Population_Visualization.ipynb)– Jupyter notebook containing code, plots, and insights
 
 ---
 
@@ -32,8 +32,3 @@ To analyze and visualize the global distribution of *male, **female, and **total
 - 👥 The *total global population* surpassed *8.1 billion* in 2024, with a majority concentrated in low and middle-income nations.
 
 ---
-
-## ✅ Task Status
-
-- ✔ *Completed*
-- 📅 Internship: SkillCraft Technology – Data Science
