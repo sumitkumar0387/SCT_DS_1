@@ -14,8 +14,8 @@ Perform data cleaning and exploratory data analysis on the Titanic dataset to un
 - Created bar charts and heatmaps to understand correlations.
 
 ## 📂 Files in this folder:
-- `task02_titanic_eda.ipynb` – Jupyter Notebook with full code
-- `titanic_cleaned.csv` – Cleaned dataset used for analysis
+-  [`Task02_Titanic_Eda.ipynb`](./Task02_Titanic_Eda.ipynb)
+- [`titanic_cleaned.csv`](./titanic_cleaned.csv)
 
 ## 🛠️ Tools Used:
 Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
