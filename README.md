@@ -1,8 +1,39 @@
+# 📊 Task 01 - Global Population Visualization (2024)
 
+This task is submitted as part of the *SkillCraft Technology Data Science Internship*.
 
-### 📊 [Task 01 – Population Visualization (2024)](./Task01)
+---
 
-- Analyzed global population distribution by gender.
-- Visualized male, female, and total population using bar charts.
-- Libraries used: **Pandas**, **Matplotlib**, **Seaborn**.
+## 🎯 Objective
 
+To analyze and visualize the global distribution of *male, **female, and **total population* for the year *2024*, and extract meaningful insights using data visualization tools.
+
+---
+
+## 🧰 Tools & Technologies Used
+
+- *Python*
+- *Pandas* – data manipulation
+- *Matplotlib* – basic plotting
+- *Seaborn* – advanced visualization
+
+---
+
+## 📁 Project File
+
+- Task01_Population_Visualization.ipynb – Jupyter notebook containing code, plots, and insights
+
+---
+
+## 📈 Key Insights
+
+- 🌍 *Qatar* and *UAE* have the highest percentage of *male population*, largely due to migrant labor demographics.
+- 👩‍🦰 *Hong Kong SAR* and *Moldova* report a significantly higher *female population*.
+- 👥 The *total global population* surpassed *8.1 billion* in 2024, with a majority concentrated in low and middle-income nations.
+
+---
+
+## ✅ Task Status
+
+- ✔ *Completed*
+- 📅 Internship: SkillCraft Technology – Data Science
