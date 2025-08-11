@@ -1,6 +1,4 @@
-# 📊 Task 01 - Global Population Visualization (2024)
-
-This task is submitted as part of the *SkillCraft Technology Data Science Internship*.
+# 📊  Global Population Visualization (2024)
 
 ---
 
