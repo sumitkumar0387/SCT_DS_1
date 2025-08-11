@@ -1,21 +1,24 @@
-# 📊  Global Population Visualization (2024)
+📊 Global Population Visualization (2024)
+
 
 ---
 
-## 🎯 Objective
+🎯 Objective
 
-To analyze and visualize the global distribution of *male, **female, and **total population* for the year *2024*, and extract meaningful insights using data visualization tools.
+To analyze and visualize the global distribution of male, female, and total population for the year 2024, and extract meaningful insights through data visualization techniques.
 
----
-
-## 🧰 Tools & Technologies Used
-
-- *Python*
-- *Pandas* – data manipulation
-- *Matplotlib* – basic plotting
-- *Seaborn* – advanced visualization
 
 ---
+
+🧰 Tools & Technologies Used
+
+Python
+
+Pandas – for data manipulation
+
+Matplotlib – for plotting
+
+Seaborn – for advanced visualization 
 
 ## 📁 Project File
 
